@@ -26,8 +26,7 @@ except Exception as e:
 
 st.title("🏠 House Price Prediction App")
 st.write(
-    "Enter the property details below to get an estimated market price prediction"
-    " based on our machine learning model."
+    "Enter the property details below to get an estimated market price prediction."
 )
 
 st.markdown("---")
